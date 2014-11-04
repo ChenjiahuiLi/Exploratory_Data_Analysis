@@ -1,4 +1,4 @@
 Exploratory_Data_Analysis
 =========================
 
-Programming Projects for Coursera Exploratory Data Analysis
+Use ggplot2, lattice to plot and grep to conduct basic regular expression.
